@@ -1,0 +1,25 @@
+Exame clínico
+Hemograma 
+Grupo Sanguíneo
+Ácido Hipúrico
+Ácido Metil Hipúrico
+Ácido Mandélico
+Glicemia de Jejum
+E.P.F. (Fezes)
+E.A.S. (Urina)
+Carboxihemoglobina
+Colesterol Total
+Uréia
+Creatinina
+Ácido Úrico
+Triglicerídeos
+Audiometria
+Optometria (Acuid.Visual)
+Raio X Tórax 
+Raio X Coluna Lombar
+Raio X Coluna Cervical
+Raio X dos Joelhos
+Espirometria
+Reticulocitos
+Tricompostos Totais
+Oftalmológico
